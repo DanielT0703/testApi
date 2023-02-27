@@ -1,6 +1,8 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 
+app.use(cors())
 // Endpoint 1 - /api1
 app.get('/api1', (req, res) => {
   const items = [
