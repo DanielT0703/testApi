@@ -21,14 +21,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DanielT0703/testApi.git"
-  },
-  "bugs": {
-    "url": "https://github.com/DanielT0703/testApi/issues"
-  },
-  "homepage": "https://github.com/DanielT0703/testApi#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
